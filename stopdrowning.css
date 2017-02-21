@@ -4,6 +4,8 @@ ul {
     padding: 0;
 	width: 200px;
     background-color: #f1f1f1;
+	font-family:Rajdhani;
+	font-weight:600;
 }
 
 li a {
