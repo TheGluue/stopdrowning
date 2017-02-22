@@ -15,7 +15,7 @@ ul {
 	text-align:center;
 	float:left;
 	display:inline-block;
-	font-size:200;
+	font-size:18px;
 }
 
 li a {
@@ -28,7 +28,9 @@ li a:hover {
     background-color: #555;
     color: white;
 }
-
+li:hover {
+	font-size:25px;
+}
 p{
 font-family:Rajdhani;
 margin-left:200px;
