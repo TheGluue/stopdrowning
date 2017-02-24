@@ -35,3 +35,21 @@ p{
 font-family:Rajdhani;
 margin-left:200px;
 }
+.linkbox{
+	background: #1473e6;
+    border-radius: 1rem;
+    border: .125rem solid transparent;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    font-family: adobe-clean,Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.75rem;
+    padding: 0 .75rem .0625rem;
+    text-decoration: none;
+    color: #fff;
+}
+linkbox:hover{
+background-color:#0b5ec1;
+}
