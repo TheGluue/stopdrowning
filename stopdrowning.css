@@ -34,29 +34,17 @@ p{
 font-family:Rajdhani;
 margin-left:200px;
 }
-html { 
-  background:url(https://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-1-full.jpg)  no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
+
+.mainbutton {
+	margin:auto;
+    border-radius: 0.5px;
+	font-family:Oxygen;
+    border: 3px solid #fff;
+    padding: 10px; 
+    width: 200px;
 }
 
-.linkbox{
-	background: #1473e6;
-    border-radius: 1rem;
-    border: .125rem solid transparent;
-    box-sizing: border-box;
-    cursor: pointer;
-    display: inline-block;
-    font-family: adobe-clean,Helvetica,Arial,sans-serif;
-    font-size: 1rem;
-    font-weight: 700;
-    line-height: 1.75rem;
-    padding: 0 .75rem .0625rem;
-    text-decoration: none;
-    color: #fff;
+.mainbutton:hover {
+	background-color:#fff;
+	color:black;
 }
-linkbox:hover{
-background-color:#0b5ec1;
-}
-
