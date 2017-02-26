@@ -37,9 +37,7 @@ margin-left:200px;
 
 .mainbutton {
 	margin:auto;
-	position:relative;
-
-    border-radius: 1px;
+    border-radius: 0.5px;
 	font-family:Oxygen;
     border: 3px solid #fff;
     padding: 10px; 
@@ -49,18 +47,4 @@ margin-left:200px;
 .mainbutton:hover {
 	background-color:#fff;
 	color:black;
-}
-
-centered-container {
-    display: table;
-    position: absolute;
-    table-layout: fixed;
-    width: 100%;
-    height: 100%;
-}
-
-.centered-elements{
-   display: table-cell;
-   vertical-align: middle;
-   text-align: center;
 }
