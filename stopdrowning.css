@@ -45,6 +45,6 @@ margin-left:200px;
 }
 
 .mainbutton:hover {
-	background-color:#fff;
+	background-color:rgba(255, 255, 255,0.5);
 	color:black;
 }
