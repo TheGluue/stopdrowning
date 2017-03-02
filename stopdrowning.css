@@ -37,16 +37,17 @@ color:orange;
 font-size:30px;
 }*/
 
+body { margin: 0; }
 
 #whybealifeguard{
 	font-family:Rajdhani;
-	margin-left:16.5%;
+	/*margin-left:16.5%;*/
 	color:yellow;
 	font-size:30px;	
 }
 #physicalfitness{
 	font-family:Rajdhani;
-	margin-left:16.5%;
+	/*margin-left:16.5%;*/
 	color:pink;
 	font-size:30px;
 	background:url(http://s.hswstatic.com/gif/water-life-crop.jpg)  no-repeat center center fixed; 
@@ -57,7 +58,7 @@ font-size:30px;
 
 #whosdrowning{
 	font-family:Rajdhani;
-	margin-left:16.5%;
+	/*margin-left:16.5%;*/
 	color:blue;
 	font-size:30px;
 }
