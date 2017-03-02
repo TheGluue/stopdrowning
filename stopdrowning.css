@@ -34,26 +34,31 @@ li:hover {
 font-family:Rajdhani;
 margin-left:16.5%;
 color:orange;
-font-size:30px;*/
-}
+font-size:30px;
+}*/
 
-.whybealifeguard{
+
+#whybealifeguard{
 	font-family:Rajdhani;
 	margin-left:16.5%;
 	color:yellow;
-	font-size:30px;
-	}
-
-.whosdrowning{
-	font-family:Rajdhani;
-	margin-left:16.5%;
-	color:orange;
-	font-size:30px;
+	font-size:30px;	
 }
-
-.physicalfitness{
+#physicalfitness{
 	font-family:Rajdhani;
 	margin-left:16.5%;
 	color:pink;
 	font-size:30px;
+	background:url(http://s.hswstatic.com/gif/water-life-crop.jpg)  no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
 }
+
+#whosdrowning{
+	font-family:Rajdhani;
+	margin-left:16.5%;
+	color:blue;
+	font-size:30px;
+}
+
