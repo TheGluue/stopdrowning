@@ -36,27 +36,44 @@ margin-left:16.5%;
 color:orange;
 font-size:30px;
 }*/
+body{margin:0;}
+.whybealifeguard{
+background:url(https://s-media-cache-ak0.pinimg.com/originals/6f/22/12/6f22122d5c52e0cb752a278542ec8012.jpg)  no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;	
+	margin:0
+}
 
-body { margin: 0; }
-
-#whybealifeguard{
+.whybealifeguard p{
 	font-family:Rajdhani;
 	/*margin-left:16.5%;*/
 	color:yellow;
 	font-size:30px;	
 }
-#physicalfitness{
-	font-family:Rajdhani;
-	margin-left:16.5%;
-	color:pink;
-	font-size:30px;
-	background:url(http://s.hswstatic.com/gif/water-life-crop.jpg)  no-repeat center center fixed; 
+
+.physicalfitness{
+	background:url(https://static.pexels.com/photos/3158/black-and-white-africa-animals-wilderness.jpg)  no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
+	margin:0;
 }
-
-#whosdrowning{
+.physicalfitness p{
+	font-family:Rajdhani;
+	margin-left:5%;
+	color:pink;
+	font-size:30px;
+	
+}
+.whosdrowning{
+	background:url(https://static.pexels.com/photos/823/black-and-white-waves-close-up-view-circle.jpg)  no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;	
+	margin:0;
+}
+.whosdrowning p{
 	font-family:Rajdhani;
 	/*margin-left:16.5%;*/
 	color:blue;
